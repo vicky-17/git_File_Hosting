@@ -108,20 +108,28 @@ function Open_TG(e) {
 const videolink = window.location.href,
   streamlink = videolink.replace("/watch/", "/dl/");
 
-  
+
 function vlc_player() {
   const e = streamlink.replace(/^https?:\/\//, "");
   window.location.href = `vlc://${e}`;
 }
-// function filmyswap_player() {
-//   // Option A: Android Intent format (Direct package launch, matches your MX/PlayIt buttons)
-//   const e = streamlink.replace(/^https?:\/\//, "");
-//   window.location.href = `intent://${e}#Intent;scheme=https;package=com.filmyswap.player;action=android.intent.action.VIEW;end`;
-// }
 
-// Alternatively, Option B: Using custom scheme handled by StartActivity.kt:
 function filmyswap_player() {
-  window.location.href = `filmyswap://play?url=${encodeURIComponent(streamlink)}`;
+  const e = streamlink.replace(/^https?:\/\//, "");
+  
+  // 1. Android Intent format (Targets com.filmyswap.player directly)
+  const intentUrl = `intent://${e}#Intent;scheme=https;package=com.filmyswap.player;action=android.intent.action.VIEW;end`;
+  
+  // 2. Custom Scheme format
+  const schemeUrl = `filmyswap://play?url=${encodeURIComponent(streamlink)}`;
+
+  if (/Android/i.test(navigator.userAgent)) {
+    // Android mobile browsers (Chrome, Edge, Opera, Brave)
+    window.location.href = intentUrl;
+  } else {
+    // Telegram in-app browser, Desktop, or Fallback
+    window.location.href = schemeUrl;
+  }
 }
 
 

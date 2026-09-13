@@ -48,4 +48,17 @@ footer a:hover {
     display: flex;
     justify-content: flex-end;
     margin-top: 10px;
+
+}
+.btn-filmyswap {
+    background-color: #512DA8 !important;
+    color: #FFFFFF !important;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.btn-filmyswap:hover {
+    background-color: #673AB7 !important;
+    color: #FFFFFF !important;
 }

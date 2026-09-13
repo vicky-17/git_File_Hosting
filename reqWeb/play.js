@@ -1,3 +1,14 @@
+/* These files will not work if you place these here. because the jinaja rending the only the html page, in jinja path.
+so there this file can not be acces.
+we need to host this file in server, and make it accesible with alink, i am currently hosting it with git hub pages .
+
+https://vicky-17.github.io/FilmyswapBot_website/reqWeb/play.js */
+
+
+
+
+
+
 function openReport() {
   document.getElementById("myForm").style.display = "block";
 }
@@ -96,20 +107,24 @@ function Open_TG(e) {
 }
 const videolink = window.location.href,
   streamlink = videolink.replace("/watch/", "/dl/");
+
+  
 function vlc_player() {
   const e = streamlink.replace(/^https?:\/\//, "");
   window.location.href = `vlc://${e}`;
 }
-function filmyswap_player() {
-  // Option A: Android Intent format (Direct package launch, matches your MX/PlayIt buttons)
-  const e = streamlink.replace(/^https?:\/\//, "");
-  window.location.href = `intent://${e}#Intent;scheme=https;package=com.filmyswap.player;action=android.intent.action.VIEW;end`;
-}
+// function filmyswap_player() {
+//   // Option A: Android Intent format (Direct package launch, matches your MX/PlayIt buttons)
+//   const e = streamlink.replace(/^https?:\/\//, "");
+//   window.location.href = `intent://${e}#Intent;scheme=https;package=com.filmyswap.player;action=android.intent.action.VIEW;end`;
+// }
 
 // Alternatively, Option B: Using custom scheme handled by StartActivity.kt:
-// function filmyswap_player() {
-//   window.location.href = `filmyswap://play?url=${encodeURIComponent(streamlink)}`;
-// }
+function filmyswap_player() {
+  window.location.href = `filmyswap://play?url=${encodeURIComponent(streamlink)}`;
+}
+
+
 function mx_player() {
   const e = streamlink.replace(/^https?:\/\//, "");
   window.location.href = `intent://${e}#Intent;scheme=https;package=com.mxtech.videoplayer.ad;action=android.intent.action.VIEW;end`;
@@ -147,3 +162,4 @@ document.addEventListener("DOMContentLoaded", () => {
     t.appendChild(n),
     document.body.appendChild(t);
 });
+

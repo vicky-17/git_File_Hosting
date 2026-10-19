@@ -1,0 +1,373 @@
+{
+  "version": 1,
+  "tutorials": [
+    {
+      "file": "tutorial_accessibility_huawei.mp4",
+      "url": "tutorials/tutorial_accessibility_huawei.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_accessibility_oppo.mp4",
+      "url": "tutorials/tutorial_accessibility_oppo.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_accessibility_samsung.mp4",
+      "url": "tutorials/tutorial_accessibility_samsung.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_accessibility_vivo.mp4",
+      "url": "tutorials/tutorial_accessibility_vivo.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_accessibility_xiaomi.mp4",
+      "url": "tutorials/tutorial_accessibility_xiaomi.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_always_on_vpn_huawei.mp4",
+      "url": "tutorials/tutorial_always_on_vpn_huawei.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_always_on_vpn_oppo.mp4",
+      "url": "tutorials/tutorial_always_on_vpn_oppo.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_always_on_vpn_samsung.mp4",
+      "url": "tutorials/tutorial_always_on_vpn_samsung.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_always_on_vpn_vivo.mp4",
+      "url": "tutorials/tutorial_always_on_vpn_vivo.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_always_on_vpn_xiaomi.mp4",
+      "url": "tutorials/tutorial_always_on_vpn_xiaomi.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_battery_huawei.mp4",
+      "url": "tutorials/tutorial_battery_huawei.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_battery_oppo.mp4",
+      "url": "tutorials/tutorial_battery_oppo.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_battery_samsung.mp4",
+      "url": "tutorials/tutorial_battery_samsung.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_battery_vivo.mp4",
+      "url": "tutorials/tutorial_battery_vivo.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_battery_xiaomi.mp4",
+      "url": "tutorials/tutorial_battery_xiaomi.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_full_screen.mp4",
+      "url": "tutorials/tutorial_full_screen.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_oem_autostart_huawei.mp4",
+      "url": "tutorials/tutorial_oem_autostart_huawei.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_oem_autostart_oppo.mp4",
+      "url": "tutorials/tutorial_oem_autostart_oppo.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_oem_autostart_vivo.mp4",
+      "url": "tutorials/tutorial_oem_autostart_vivo.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_oem_autostart_xiaomi.mp4",
+      "url": "tutorials/tutorial_oem_autostart_xiaomi.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_oem_background_popup_xiaomi.mp4",
+      "url": "tutorials/tutorial_oem_background_popup_xiaomi.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_overlay_huawei.mp4",
+      "url": "tutorials/tutorial_overlay_huawei.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_overlay_oppo.mp4",
+      "url": "tutorials/tutorial_overlay_oppo.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_overlay_samsung.mp4",
+      "url": "tutorials/tutorial_overlay_samsung.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_overlay_vivo.mp4",
+      "url": "tutorials/tutorial_overlay_vivo.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_overlay_xiaomi.mp4",
+      "url": "tutorials/tutorial_overlay_xiaomi.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_restricted_settings.mp4",
+      "url": "tutorials/tutorial_restricted_settings.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_restricted_settings_huawei.mp4",
+      "url": "tutorials/tutorial_restricted_settings_huawei.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_restricted_settings_oppo.mp4",
+      "url": "tutorials/tutorial_restricted_settings_oppo.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_restricted_settings_samsung.mp4",
+      "url": "tutorials/tutorial_restricted_settings_samsung.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_restricted_settings_vivo.mp4",
+      "url": "tutorials/tutorial_restricted_settings_vivo.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_restricted_settings_xiaomi.mp4",
+      "url": "tutorials/tutorial_restricted_settings_xiaomi.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_usage_access_huawei.mp4",
+      "url": "tutorials/tutorial_usage_access_huawei.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_usage_access_oppo.mp4",
+      "url": "tutorials/tutorial_usage_access_oppo.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_usage_access_samsung.mp4",
+      "url": "tutorials/tutorial_usage_access_samsung.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_usage_access_vivo.mp4",
+      "url": "tutorials/tutorial_usage_access_vivo.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    },
+    {
+      "file": "tutorial_usage_access_xiaomi.mp4",
+      "url": "tutorials/tutorial_usage_access_xiaomi.mp4",
+      "bytes": 1351900,
+      "sha256": "eb58d7051a3ce7c86bb558ddcabd319ef5101d2892eeedf5c23153405dcb7708"
+    }
+  ],
+  "music": [
+    {
+      "file": "binaural_alpha_waves.mp3",
+      "title": "Binaural alpha waves",
+      "logo": "",
+      "url": "music/binaural_alpha_waves.mp3",
+      "bytes": 1025296,
+      "sha256": "76e28be522a11f0d0f9196b0863c9757c9682110701b58e150b348e983068e84"
+    },
+    {
+      "file": "binaural_gamma_30hz_rain.mp3",
+      "title": "Binaural gamma 30hz rain",
+      "logo": "",
+      "url": "music/binaural_gamma_30hz_rain.mp3",
+      "bytes": 9601401,
+      "sha256": "471c0af51c5f88a045d5cb4515ddcfb7dcb4617d810a29ef529bff727b0eb4f2"
+    },
+    {
+      "file": "binaural_gamma_40hz_rain.mp3",
+      "title": "Binaural gamma 40hz rain",
+      "logo": "",
+      "url": "music/binaural_gamma_40hz_rain.mp3",
+      "bytes": 9601196,
+      "sha256": "a5195e3b665ec2e176771f5ca7650aa0ec44da0b6ca72591d9f6808f1742f0a1"
+    },
+    {
+      "file": "lofi_cat_cafe.mp3",
+      "title": "Lofi cat cafe",
+      "logo": "",
+      "url": "music/lofi_cat_cafe.mp3",
+      "bytes": 2748984,
+      "sha256": "896b036154c439e0790fa821bf4a5a1d208d17954c8db1b10c72a6d053c7d3d9"
+    },
+    {
+      "file": "lofi_cue.mp3",
+      "title": "Lofi cue",
+      "logo": "",
+      "url": "music/lofi_cue.mp3",
+      "bytes": 3020681,
+      "sha256": "c97929e1a7b209d0ce24445d33396e3272b4675f50c3d72dbaa315c0152372a4"
+    },
+    {
+      "file": "lofi_cup_of_tea.mp3",
+      "title": "Lofi cup of tea",
+      "logo": "",
+      "url": "music/lofi_cup_of_tea.mp3",
+      "bytes": 3377068,
+      "sha256": "03f8128bfa193e9fee5f0647f189baeb7adbf2a1f7b0fecf849ad57e6355091c"
+    },
+    {
+      "file": "lofi_rain.mp3",
+      "title": "Lofi rain",
+      "logo": "",
+      "url": "music/lofi_rain.mp3",
+      "bytes": 2282924,
+      "sha256": "f2c6a3612625c08c9ddfb961f51f16bb93a15ea0c9a54c9c00888be6def61492"
+    },
+    {
+      "file": "mountain_study.mp3",
+      "title": "Mountain study",
+      "logo": "",
+      "url": "music/mountain_study.mp3",
+      "bytes": 2785323,
+      "sha256": "12427897910a4ac6600654095e14744c71faf98fe42c822da3bcda947d71d5b1"
+    },
+    {
+      "file": "rain_forest.mp3",
+      "title": "Rain forest",
+      "logo": "",
+      "url": "music/rain_forest.mp3",
+      "bytes": 2393360,
+      "sha256": "36dcdeb142c22b691eb8a487520da2d49149e2df4430f65c2f8a44df6d7d2e1a"
+    },
+    {
+      "file": "rain_morning.mp3",
+      "title": "Rain morning",
+      "logo": "",
+      "url": "music/rain_morning.mp3",
+      "bytes": 1541350,
+      "sha256": "11c9c43be5d3baf5892cd59034ba3c1b690db9a4b986070530597d0afaa12306"
+    },
+    {
+      "file": "study_flow.mp3",
+      "title": "Study flow",
+      "logo": "",
+      "url": "music/study_flow.mp3",
+      "bytes": 1857453,
+      "sha256": "4029dbd99a6762e9da7eb8e6e2f2b8fe3247d5b40bf00780feb9b2d9583b8baa"
+    }
+  ],
+  "wallpapers": [
+    {
+      "file": "dark/late_night_room.jpg",
+      "title": "Late night room",
+      "logo": "",
+      "category": "dark",
+      "url": "wallpapers/dark/late_night_room.jpg",
+      "bytes": 180038,
+      "sha256": "1347507f98611022d0d0ad97bbf88ff4c7bfffe080a25232bdb98c71370a790f"
+    },
+    {
+      "file": "dark/milky_way_night.jpg",
+      "title": "Milky way night",
+      "logo": "",
+      "category": "dark",
+      "url": "wallpapers/dark/milky_way_night.jpg",
+      "bytes": 452759,
+      "sha256": "fe78be3ab9a6cb038819967e34fcfd4327f71d19f2fb02ef4c75d3b5de8e885a"
+    },
+    {
+      "file": "dark/night_dreamscape.jpg",
+      "title": "Night dreamscape",
+      "logo": "",
+      "category": "dark",
+      "url": "wallpapers/dark/night_dreamscape.jpg",
+      "bytes": 88433,
+      "sha256": "a4615acdc97ee3f3663e345d0a0b7640202236093538cf8d5cbc1ce888b6d8ff"
+    },
+    {
+      "file": "light/dusk_clouds.jpg",
+      "title": "Dusk clouds",
+      "logo": "",
+      "category": "light",
+      "url": "wallpapers/light/dusk_clouds.jpg",
+      "bytes": 202586,
+      "sha256": "7f4920fe05eea92096df1607dca755b3bcd399e972fd820f1292643852370bc7"
+    }
+  ],
+  "live": [
+    {
+      "file": "rainy_reading_nook.mp4",
+      "title": "Rainy reading nook",
+      "logo": "",
+      "url": "live/rainy_reading_nook.mp4",
+      "bytes": 454944,
+      "sha256": "89eda55a06427b098e3bdc22e971a130f187f9c4f168579af6324c0d0840feaf"
+    },
+    {
+      "file": "sunlit_forest_ruins.mp4",
+      "title": "Sunlit forest ruins",
+      "logo": "",
+      "url": "live/sunlit_forest_ruins.mp4",
+      "bytes": 776025,
+      "sha256": "8ff7cb9deb79fcc9d968a5af551927d647862b06e377e2fcba0c4d5c650b5d83"
+    }
+  ]
+}
